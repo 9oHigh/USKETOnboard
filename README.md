@@ -22,7 +22,7 @@ pod 'USKETOnboard'
 
 ## Author
 
-9oHigh, wkdska957@naver.com
+9oHigh, <usKet@icloud.com>
 
 ## License
 
